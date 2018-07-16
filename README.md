@@ -3,7 +3,7 @@
 > A small library that uses Twilio to send an SMS when a job finishes running in Paperspace. 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/cvalenzuela/psnotify/master/static/demo.svg">
+    <img src="https://rawgit.com/cvalenzuela/psnotify/master/static/demo.svg">
 </p>
 
 ## Usage
@@ -22,7 +22,7 @@ psnotify config
 ```
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/cvalenzuela/psnotify/master/static/settwilio.svg">
+    <img src="https://rawgit.com/cvalenzuela/psnotify/master/static/settwilio.svg">
 </p>
 
 4) Run a Paperspace Job and enable `psnotify`
